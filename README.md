@@ -1,2 +1,3 @@
 # ThisFunc
-Create an interpreter for an imaginary functional programming language.
+
+A project aimed at creating a C++ based interpreter for an imaginary functional language. More details in "Task.pdf".
